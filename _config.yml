@@ -1,0 +1,38 @@
+title: Jeetu
+tagline: cat /var/log/life
+email: who.jeetu@gmail.com
+
+description: >- # this means to ignore newlines until "baseurl:"
+  /var/log/life
+# baseurl: ""
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://github.com/i-am-g2" # the base hostname & protocol for your site, e.g. http://example.com
+ 
+github_username:  i-am-g2
+paginate: 10 #Number of posts in a page
+
+permalink:        pretty
+future: true 
+paginate_path: "blog/page:num/"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+feed:
+  path: atom.xml
+exclude: ["readme.md"]
+
+github:
+  repo: https://github.com/i-am-g2
+
+
+
+# Github's Recommneded Settings (We can Ignore this)
+lsi: false
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

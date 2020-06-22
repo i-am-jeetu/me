@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Introduction
+desc: Why this? 
+date:   2020-01-01 00:06:52 +0530
+# categories: jekyll update
+# 我爱 李奇蓓
+---
+
+Built this in jekyll will update all the steps involved soon...  
+Target : To write atleast two blogs in a month...Let's see!

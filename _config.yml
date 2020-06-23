@@ -1,19 +1,19 @@
 title: Jeetu
 tagline: cat /var/log/life
-email: who.jeetu@gmail.com
+email: i.am.jeetu2@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   /var/log/life
-# baseurl: ""
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://github.com/i-am-g2" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+# baseurl: "/me" # the subpath of your site, e.g. /blog
+url: "https://github.com/i-am-jeetu" # the base hostname & protocol for your site, e.g. http://example.com
  
-github_username:  i-am-g2
+github_username:  i-am-jeetu
 paginate: 10 #Number of posts in a page
 
 permalink:        pretty
 future: true 
-paginate_path: "blog/page:num/"
+paginate_path: "me/page:num/"
 theme: minima
 plugins:
   - jekyll-feed
@@ -23,7 +23,7 @@ feed:
 exclude: ["readme.md"]
 
 github:
-  repo: https://github.com/i-am-g2
+  repo: https://github.com/i-am-jeetu
 
 
 

@@ -4,8 +4,8 @@ email: i.am.jeetu2@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   /var/log/life
-# baseurl: ""
-baseurl: "/me" # the subpath of your site, e.g. /blog
+baseurl: ""
+# baseurl: "/me" # the subpath of your site, e.g. /blog
 url: "https://github.com/i-am-jeetu" # the base hostname & protocol for your site, e.g. http://example.com
  
 github_username:  i-am-jeetu
